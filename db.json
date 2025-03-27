@@ -1,9 +1,94 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "messages": [
+    {
+      "id": "1",
+      "user": "John",
+      "text": "Hello!",
+      "timestamp": "2025-03-26T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "user": "Alice",
+      "text": "Hi John!",
+      "timestamp": "2025-03-26T10:01:00Z"
+    },
+    {
+      "id": "b29d",
+      "sender": "You",
+      "text": "hey",
+      "timestamp": "2025-03-25T21:44:08.872Z"
+    },
+    {
+      "id": "c6a3",
+      "sender": "You",
+      "text": "wasup",
+      "timestamp": "2025-03-25T21:44:14.632Z"
+    },
+    {
+      "id": "2015",
+      "sender": "ChatBot",
+      "text": "Hey! How's it going?",
+      "timestamp": "2025-03-25T21:47:55.752Z"
+    },
+    {
+      "id": "f29e",
+      "sender": "ChatBot",
+      "text": "That's interesting! Tell me more about it.",
+      "timestamp": "2025-03-25T21:48:09.711Z"
+    },
+    {
+      "id": "54a4",
+      "sender": "ChatBot",
+      "text": "Hey! How's it going?",
+      "timestamp": "2025-03-25T21:57:28.882Z"
+    },
+    {
+      "id": "0d78",
+      "sender": "ChatBot",
+      "text": "Hey! How's it going?",
+      "timestamp": "2025-03-25T21:57:41.898Z"
+    },
+    {
+      "id": "1a9d",
+      "sender": "ChatBot",
+      "text": "Hey! How's it going?",
+      "timestamp": "2025-03-25T22:04:59.379Z"
+    },
+    {
+      "id": "4ccc",
+      "sender": "ChatBot",
+      "text": "Hey! How's it going?",
+      "timestamp": "2025-03-25T22:06:02.104Z"
+    },
+    {
+      "id": "46a6",
+      "sender": "ChatBot",
+      "text": "Hey! How's it going?",
+      "timestamp": "2025-03-25T22:06:19.085Z"
+    },
+    {
+      "id": "8cf6",
+      "sender": "ChatBot",
+      "text": "Hey! How's it going?",
+      "timestamp": "2025-03-25T22:06:35.147Z"
+    },
+    {
+      "id": "5d1c",
+      "sender": "ChatBot",
+      "text": "Hello! What can I do for you?",
+      "timestamp": "2025-03-25T22:06:56.529Z"
+    },
+    {
+      "id": "e5b2",
+      "sender": "ChatBot",
+      "text": "Hello! What can I do for you?",
+      "timestamp": "2025-03-25T22:07:24.774Z"
+    },
+    {
+      "id": "611b",
+      "sender": "ChatBot",
+      "text": "Hey! How's it going?",
+      "timestamp": "2025-03-25T22:07:42.415Z"
+    }
+  ]
 }
